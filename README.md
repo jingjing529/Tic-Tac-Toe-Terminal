@@ -14,5 +14,6 @@ To play Tic-Tac-Toe-Terminal with your friend or yourself, run theses program se
 * Only player1 should give themselves an awsome name and the game shall begin afterwards.
 * Note: If you are running both programs on one computer, you can input localhost in host.
 ## Sample
-https://user-images.githubusercontent.com/104955830/192065005-cd961b18-249b-4f15-9138-5387cd83bc1e.mov
+<img width="1148" alt="Screen Shot 2022-09-23 at 3 48 12 PM" src="https://user-images.githubusercontent.com/104955830/192066407-25e3ce31-ffe9-4da8-9cf7-aeb33ce880d4.png">
+
 
