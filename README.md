@@ -9,8 +9,8 @@ To play Tic-Tac-Toe-Terminal with your friend or yourself, run theses program se
 * Python player1.py
 * Python player2.py
 ## Game Start
-* Player2 is the host by default, input host and port number and press submit.
-* Player1 is the client by default, input the same host and port number as player2s and press submit.
+* Player2 is the host by default, input host and port number.
+* Player1 is the client by default, input the same host and port number as player2s.
 * Only player1 should give themselves an awsome name and the game shall begin afterwards.
 * Note: If you are running both programs on one computer, you can input localhost in host.
 ## Sample
